@@ -18,5 +18,8 @@
   "homepage": "https://github.com/tamakiii-sandbox/hello-parcel#readme",
   "dependencies": {
     "parcel": "^1.12.3"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.2"
   }
 }

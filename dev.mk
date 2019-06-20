@@ -1,7 +1,7 @@
-@build:
+@start:
 	npx parcel src/index.html
 
-@watch:
+@build:
 	npx parcel watch src/index.html
 
 @test:

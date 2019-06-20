@@ -1,10 +1,10 @@
 
 @server:
-	npx parcel index.html
+	npx parcel src/index.html
 
 @build:
-	npx parcel build index.html
+	npx parcel build src/index.html
 
 @watch:
-	npx parcel watch index.html
+	npx parcel watch src/index.html
 

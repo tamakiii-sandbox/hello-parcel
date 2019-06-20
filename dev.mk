@@ -1,5 +1,5 @@
 
-@server:
+@dev:
 	npx parcel src/index.html
 
 @build:

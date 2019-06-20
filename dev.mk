@@ -8,3 +8,8 @@
 @watch:
 	npx parcel watch src/index.html
 
+@test:
+	npx jest
+
+@test-dev:
+	npx jest --watch
